@@ -1,0 +1,15 @@
+var i: int = 0;
+enquanto (i < 3) {
+  escreva(i);
+  i = i + 1;
+}
+
+se (i == 3) {
+  escreva("fim");
+} senao {
+  escreva("x");
+}
+
+para (i = 0; i < 2; i = i + 1) {
+  escreva("loop");
+}
